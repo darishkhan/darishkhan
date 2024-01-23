@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+### 😄 About Me
 - 🔭 I’m currently working on <a href="https://github.com/Aditya10T/BillingApp">Invoicify</a>
 - 🌱 I’m currently learning TailwindCSS.
 - 👯 I’m looking to collaborate on any full stack project.
@@ -24,7 +24,7 @@
 - 🌥️ Fun fact: I love watching clouds.
 
 ---
-
+### 🧰 Skills 
 <div id="tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="60"/>
@@ -41,8 +41,18 @@
 </div>
 
 ---
-<div align="center">
-<img  src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200"/>
+### 🏅 Badges 
+<div id="badges" align="center">
+  <img  src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200"/>
+</div>
+
+---
+
+### 📈 My Stats: 
+<div id="stats" align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=darishkhan&theme=iceberg&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 
