@@ -17,11 +17,11 @@
 ---
 ### 😄 About Me
 - 🔭 I’m currently working on <a href="https://github.com/Aditya10T/BillingApp">Invoicify</a>
-- 🌱 I’m currently learning TailwindCSS.
-- 👯 I’m looking to collaborate on any full stack project.
-- 🤔 I’m looking for help with ReactJS, NodeJS, TypeSctipt.
 - 📫 Reach me on LinkedIn or Twitter.
 - 🌥️ I love watching clouds.
+<!-- - 🌱 I’m currently learning TailwindCSS.
+- 👯 I’m looking to collaborate on any full stack project.
+- 🤔 I’m looking for help with ReactJS, NodeJS, TypeSctipt.  -->
 
 ---
 ### 🧰 Skills 
